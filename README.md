@@ -1,5 +1,5 @@
 # MISTer-All-in-one-board
-EN:
+# English:
 This project has been made in the case of my 3rd year of aprenticeship in electronics (EPTM Valais in Switzerland).
 It has been my teacher that after I ask him if I can make a project about FPGA's and retrogaming, proposed me to work on the MISTer.
 
@@ -9,15 +9,32 @@ I upload the Gerber File in case you want to do it yourself for that I also give
 
 IMPORTANT : I do not guarantee that the PCB is functional for the moment, the gerber file is here in case, but I cannot say if it can work until I builded it myself.
 
+# Features of the board :
+- SDRAM
+- Fan Leds and Buttons like the IO Board
+- RTC
+- Audio Jack out
+- Secondary Micro-SD
+- CAUTION : no VGA and Serial Port
+
 You can find the original project here : https://github.com/MiSTer-devel
-___________________________________________________________________________________________________________________________________
-FR:
+________________________________________________________________________________________________________________________________
+
+# Français:
 Ce projet a été conçu pour un travail scolaire d'électronique de 3ème année à l'EPTM du Valais en Suisse. Le professeur qui a supervisé mon projet m'a poposé de travailler sur le MISTer après lui avoir demandé si mon travail pouvait porter sur les FPGA et le retrogaming.
 
 Le but de ce projet a donc été de concevoir un PCB regroupant la plupart des extensions comme la RAM et la RTC en un. Puis ensuite faire un boitier style ordinateur des années 80-90.
 
 Je mets en ligne le fichier Gerber au cas où vous voudriez le faire vous-même, pour cela je vous donne également la liste des composants que j'ai utilisés. J'essaierai peut-être de trouver des composants équivalents dans des magasins américains.
 
-IMPORTANT : Je ne garantis pas que le PCB est fonctionnel pour l'instant, le fichier gerber est disponible si jamais vous voulez quand même tester, mais je ne peux pas dire si le PCB marche avant de l'avoir fini de le monter moi-même.
+IMPORTANT : Je ne garantis pas la fonctionnalité du PCB pour l'instant, le fichier gerber est disponible si jamais vous voulez quand même tester, mais je ne peux pas dire si le PCB marche avant de l'avoir fini de le monter moi-même.
+
+# Fonctionnalités de la carte:
+- SDRAM
+- Ventilateurs, Leds et Buttons comme l'IO Board
+- RTC
+- Sortie Audio Jack
+- Micro-SD secondaire
+- ATTENTION : pas de VGA et de port série
 
 Vous pouvez trouver le projet originel ici : https://github.com/MiSTer-devel
