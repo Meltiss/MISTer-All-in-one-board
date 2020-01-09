@@ -27,7 +27,7 @@ Le but de ce projet a donc été de concevoir un PCB regroupant la plupart des e
 
 Je mets en ligne le fichier Gerber au cas où vous voudriez le faire vous-même, pour cela je vous donne également la liste des composants que j'ai utilisés. J'essaierai peut-être de trouver des composants équivalents dans des magasins américains.
 
-IMPORTANT : Je ne garantis pas la fonctionnalité du PCB pour l'instant, le fichier gerber est disponible si jamais vous voulez quand même tester, mais je ne peux pas dire si le PCB marche avant de l'avoir fini de le monter moi-même.
+IMPORTANT : Je ne garantis pas la fonctionnalité du PCB pour l'instant, le fichier gerber est disponible si jamais vous voulez quand même tester, mais je ne peux pas dire si le PCB marche avant d'avoir fini de le monter moi-même.
 
 # Fonctionnalités de la carte:
 - SDRAM
