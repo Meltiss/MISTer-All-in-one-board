@@ -7,6 +7,8 @@ The goal of my project is to make a single PCB for some of the expansions like t
 
 I upload the Gerber File in case you want to do it yourself for that I also give you the list of the components i used (in french, sorry about that). Maybe I will try to find equivalent components in american shops.
 
+IMPORTANT : I do not guarantee that the PCB is functional for the moment, the gerber file is here in case, but I cannot say if it can work until I builded it myself.
+
 FR:
 Ce projet a été conçu pour un travail scolaire d'électronique de 3ème année à l'EPTM du Valais en Suisse. Le professeur qui a supervisé mon projet m'a poposé de travailler sur le MISTer après lui avoir demandé si mon travail pouvait porter sur les FPGA et le retrogaming.
 
@@ -14,3 +16,4 @@ Le but de ce projet a donc été de concevoir un PCB regroupant la plupart des e
 
 Je mets en ligne le fichier Gerber au cas où vous voudriez le faire vous-même, pour cela je vous donne également la liste des composants que j'ai utilisés. J'essaierai peut-être de trouver des composants équivalents dans des magasins américains.
 
+IMPORTANT : Je ne garantie pas que le PCB est fonctionnel pour l'instant, le fichier gerber est disponible si jamais vous voulez quand même tester, mais je ne peut pas dire si le PCB marche avant de l'avoir fini de le monter moi-même.
