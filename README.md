@@ -20,7 +20,7 @@ IMPORTANT : I do not guarantee that the PCB is functional for the moment, the ge
 - CAUTION : no VGA and Serial Port
 
 # Case
-I also plan to share the case even if it will be more complicated to reproduce it, because it is made with a laser engraver.
+The case is done and has been made with a laser engraver. The case is made out of MDF and has been painted in black (yeah like the rolling stones). You can find a picture of it above.
 
 You can find the original project here : https://github.com/MiSTer-devel
 ________________________________________________________________________________________________________________________________
@@ -45,6 +45,6 @@ IMPORTANT : Je ne garantis pas la fonctionnalité du PCB pour l'instant, le fich
 - ATTENTION : pas de VGA et de port série
 
 # Boîtier
-Je compte également partager le boîtier même s'il sera plus compliqué à reproduire car fait à la graveuse laser.
+Le boitier est terminé , il a été fait à la graveuse laser. Le tout est fait en MDF et a été peint en noir. Vous pouvez voir une photo au-dessus.
 
 Vous pouvez trouver le projet originel ici : https://github.com/MiSTer-devel
