@@ -19,6 +19,9 @@ IMPORTANT : I do not guarantee that the PCB is functional for the moment, the ge
 - Secondary Micro-SD
 - CAUTION : no VGA and Serial Port
 
+*UPDATE PCB V2_1*
+The PCB "works" but it has a lot of problems with the RAM. Some core work but other don't. Nothing to say about the LEDS, I didn't test the RTC and the secondary SD yet...
+
 # Case
 The case is done and has been made with a laser engraver. The case is made out of MDF and has been painted in black (yeah like the rolling stones). You can find a picture of it above.
 
