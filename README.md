@@ -12,17 +12,16 @@ So, I share the Gerber file (the zip one), as well as the schematic and pdf with
 IMPORTANT : I do not guarantee that the PCB is functional for the moment, the gerber file is here in case, but I cannot say if it can work until I builded it myself.
 
 # Features of the board :
-- SDRAM
+- SDRAM (one chip -> 64MB max)
 - Fan Leds and Buttons like the IO Board
 - RTC
 - Audio Jack out
 - Secondary Micro-SD
 - CAUTION : no VGA and Serial Port
 
-*UPDATE PCB V2_1* : 
+*Update PCB V3*
 
-The PCB "works" but it has a lot of problems with the RAM. Some core work but other don't. Nothing to say about the LEDS, I didn't test the RTC and the secondary SD yet... 
-The PCB V3 is done and it just needs to be tested.
+This version is totally functionnal and is tested. It will probably be updated but it's working now. 
 
 # Case
 The case is done and has been made with a laser engraver. The case is made out of MDF and has been painted in black (yeah like the rolling stones). You can find a picture of it above.
@@ -42,12 +41,16 @@ Donc, je partage le fichier Gerber (le fichier zip), ainsi que la schématique e
 IMPORTANT : Je ne garantis pas la fonctionnalité du PCB pour l'instant, le fichier gerber est disponible si jamais vous voulez quand même tester, mais je ne peux pas dire si le PCB marche avant d'avoir fini de le monter moi-même.
 
 # Fonctionnalités de la carte:
-- SDRAM
+- SDRAM (Un IC donc 64MB au max)
 - Ventilateurs, Leds et Buttons comme l'IO Board
 - RTC
 - Sortie Audio Jack
 - Micro-SD secondaire
 - ATTENTION : pas de VGA et de port série
+
+*Mise à jour PCB V3*
+
+Cette version est totallement fonctionnel et testée. Elle va sans doute encore être améliorée mais elle fonctionne bien. 
 
 # Boîtier
 Le boitier est terminé , il a été fait à la graveuse laser. Le tout est fait en MDF et a été peint en noir. Vous pouvez voir une photo au-dessus.
