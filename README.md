@@ -14,9 +14,9 @@ IMPORTANT : I do not guarantee that the PCB is functional for the moment, the ge
 # Features of the board :
 - SDRAM (one chip -> 64MB max)
 - Fan Leds and Buttons like the IO Board
-- RTC
+- RTC (not tested yet)
 - Audio Jack out
-- Secondary Micro-SD
+- Secondary Micro-SD (not tested yet)
 - CAUTION : no VGA and Serial Port
 
 *Update PCB V3*
@@ -43,9 +43,9 @@ IMPORTANT : Je ne garantis pas la fonctionnalité du PCB pour l'instant, le fich
 # Fonctionnalités de la carte:
 - SDRAM (Un IC donc 64MB au max)
 - Ventilateurs, Leds et Buttons comme l'IO Board
-- RTC
+- RTC (pas encore testé)
 - Sortie Audio Jack
-- Micro-SD secondaire
+- Micro-SD secondaire (pas encore testé)
 - ATTENTION : pas de VGA et de port série
 
 *Mise à jour PCB V3*
