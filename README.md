@@ -21,7 +21,7 @@ IMPORTANT : I do not guarantee that the PCB is functional for the moment, the ge
 
 *Update PCB V3*
 
-This version is totally functionnal and is tested (didn't tested the RTC and SD yet). It will probably be updated but it's working now. 
+This version is totally functionnal and is tested (didn't test the RTC and SD yet). It will probably be updated but it's working now. 
 
 # Case
 The case is done and has been made with a laser engraver. The case is made out of MDF and has been painted in black (yeah like the rolling stones). You can find a picture of it above.
