@@ -21,7 +21,7 @@ IMPORTANT : I do not guarantee that the PCB is functional for the moment, the ge
 
 *Update PCB V3*
 
-This version is totally functionnal and is tested. It will probably be updated but it's working now. 
+This version is totally functionnal and is tested (didn't tested the RTC and SD yet). It will probably be updated but it's working now. 
 
 # Case
 The case is done and has been made with a laser engraver. The case is made out of MDF and has been painted in black (yeah like the rolling stones). You can find a picture of it above.
@@ -50,7 +50,7 @@ IMPORTANT : Je ne garantis pas la fonctionnalité du PCB pour l'instant, le fich
 
 *Mise à jour PCB V3*
 
-Cette version est totallement fonctionnel et testée. Elle va sans doute encore être améliorée mais elle fonctionne bien. 
+Cette version est totallement fonctionnel et testée (hors RTC et SD). Elle va sans doute encore être améliorée mais elle fonctionne bien. 
 
 # Boîtier
 Le boitier est terminé , il a été fait à la graveuse laser. Le tout est fait en MDF et a été peint en noir. Vous pouvez voir une photo au-dessus.
